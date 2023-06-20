@@ -1,1 +1,2 @@
-# machine-learning-boosters-football
+machine learning boosters.pro competitions sandbox football
+python, pandas
